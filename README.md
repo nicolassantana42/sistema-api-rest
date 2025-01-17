@@ -8,7 +8,7 @@ Construi um pequeno sistema (API REST) de usuários e departamentos, com os segu
 - Buscar um usuário pelo seu id
 - Inserir um novo usuário
 
-![Image](![user_department](https://github.com/user-attachments/assets/392ed071-bb22-4c09-8c9a-ca25a4892061)
+(![user_department](https://github.com/user-attachments/assets/392ed071-bb22-4c09-8c9a-ca25a4892061)
 ")
 
 ### Desenvolvimento moderno: relacional -> objeto -> json
