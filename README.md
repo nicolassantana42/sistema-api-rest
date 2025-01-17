@@ -9,12 +9,12 @@ Construi um pequeno sistema (API REST) de usuários e departamentos, com os segu
 - Inserir um novo usuário
 
 ![user_department](https://github.com/user-attachments/assets/392ed071-bb22-4c09-8c9a-ca25a4892061)
-")
+
 
 ### Desenvolvimento moderno: relacional -> objeto -> json
 
 ![objetos](https://github.com/user-attachments/assets/724bd174-c2f5-4194-8928-9fd1d48f9d7a)
-)
+
 
 ### Passos que foram feitos
 
